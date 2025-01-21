@@ -5,8 +5,5 @@
 [![downloads](http://img.shields.io/npm/dm/@konsumation/frontend-svelte.svg?style=flat-square)](https://npmjs.org/package/@konsumation/frontend-svelte)
 [![GitHub Issues](https://img.shields.io/github/issues/konsumation/frontend-svelte.svg?style=flat-square)](https://github.com/konsumation/frontend-svelte/issues)
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fkonsumation%2Ffrontend-svelte%2Fbadge\&style=flat)](https://actions-badge.atrox.dev/konsumation/frontend-svelte/goto)
-[![Styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Known Vulnerabilities](https://snyk.io/test/github/konsumation/frontend-svelte/badge.svg)](https://snyk.io/test/github/konsumation/frontend-svelte)
 [![Coverage Status](https://coveralls.io/repos/konsumation/frontend-svelte/badge.svg)](https://coveralls.io/github/konsumation/frontend-svelte)
 [![Tested with TestCafe](https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg)](https://github.com/DevExpress/testcafe)
